@@ -2,7 +2,7 @@
 ### 4-Page Interactive Business Intelligence Dashboard | Global Retail Analytics
 
 ![Power BI](https://img.shields.io/badge/Power_BI-Desktop-F2C811?logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-7_Measures-blue)
+![DAX](https://img.shields.io/badge/DAX-9_Measures-blue)
 ![Dataset](https://img.shields.io/badge/Dataset-51%2C920_rows-orange)
 ![Pages](https://img.shields.io/badge/Dashboard-4_Pages-brightgreen)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
