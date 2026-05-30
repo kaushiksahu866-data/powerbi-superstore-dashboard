@@ -3,7 +3,7 @@
 
 ![Power BI](https://img.shields.io/badge/Power_BI-Desktop-F2C811?logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-9_Measures-blue)
-![Dataset](https://img.shields.io/badge/Dataset-51%2C920_rows-orange)
+![Dataset](https://img.shields.io/badge/Dataset-51%2C290_rows-orange)
 ![Pages](https://img.shields.io/badge/Dashboard-4_Pages-brightgreen)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
@@ -122,7 +122,7 @@ All measures are stored in a dedicated `_DAXMeasures` table.
 | `Customer Name` | Individual customer identifier |
 
 **Dataset:** Global Superstore Sales
-**Rows:** 51,920 transactions
+**Rows:** 51,290 transactions
 **Period:** January 2011 — December 2014
 **Source:** Kaggle — Global Superstore Dataset
 
